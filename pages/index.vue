@@ -2,9 +2,7 @@
   <div class="container">
     <div>
       <img src="https://zapnotes.com.br/logo.png">
-      <h1 class="title">
-        Zap Notes
-      </h1>
+
       <h2 class="subtitle">
         Organize sua vida no WhatsApp!
       </h2>
