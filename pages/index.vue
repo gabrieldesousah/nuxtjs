@@ -1,27 +1,20 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+      <img src="https://zapnotes.com.br/logo.png">
       <h1 class="title">
-        nuxtjs
+        Zap Notes
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        Organize sua vida no WhatsApp!
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://api.whatsapp.com/send?phone=556293926787&text=Come%C3%A7ar"
           target="_blank"
           class="button--green"
         >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
+          Começar
         </a>
       </div>
     </div>
